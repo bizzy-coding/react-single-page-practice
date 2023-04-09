@@ -6,7 +6,7 @@ export default function Contact() {
         <section className="contact">
             <div className="inner-wrap">
             <h3>Still have questions</h3>
-            <p>Feel free to contact and time</p>
+            <p>Feel free to contact any time</p>
             </div>
             <a class="contact-btn" href="mailto:bizzy_coding@gmail.com">Contact Us</a>
            
