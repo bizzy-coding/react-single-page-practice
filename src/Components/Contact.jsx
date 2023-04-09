@@ -4,7 +4,13 @@ export default function Contact() {
     return (
 
         <section className="contact">
-           <h1>I am contact</h1> 
+            <div className="inner-wrap">
+            <h3>Still have questions</h3>
+            <p>Feel free to contact and time</p>
+            </div>
+            <a class="contact-btn" href="mailto:bizzy_coding@gmail.com">Contact Us</a>
+           
+
         </section>
         
     )
